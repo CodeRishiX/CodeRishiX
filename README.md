@@ -1,110 +1,189 @@
-<!-- DARK THEME PREMIUM README FOR CODERISHIX -->
+# Debangshu Bhattacharjee
 
-<h1 align="center">👋 Hey, I'm <span style="color:#facc15;">Debangshu Bhattacharjee</span> (Rishi)</h1>
-<h3 align="center">💻 Software Engineer | Java Backend Developer | Open-Source Contributor</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=FACC15&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Java+%7C+Spring+Boot;AI+%26+Machine+Learning+Enthusiast;Open+Source+Contributor+at+JabRef;Always+Learning%2C+Always+Building" alt="Typing SVG" />
-</p>
-
----
-
-## 🌌 About Me  
-- 🎓 **B.Tech CSE (2025)**  
-- 💼 Passionate **Backend Developer** (Java, Spring Boot, REST APIs, SQL)  
-- 🧠 Experience with **Machine Learning, AI, GCP Cloud & DevOps basics**  
-- 🔥 Contributor to **JabRef (7000+ ⭐)** – PR merged into main branch  
-- 📄 Research paper on **AI-based Cardiovascular Prediction** — *Accepted & Approved*  
-- 🚀 Love building real projects & solving tough problems  
-- ⭐ Goal: Become a **high-impact software engineer**  
-
----
-
-## 🏆 **Open Source Contributions**
-### 🔥 JabRef – (7k+ ⭐)  
-> JavaFX / ControlsFX UI Improvement  
-  
-- ✔️ **Merged into main repository**
-
-📌 **PR Link:**  
-👉 https://github.com/JabRef/jabref/pull/14165
-
----
-
-## ⚙️ **Tech Stack**
 <div align="center">
 
-### **Languages**
-![Java](https://img.shields.io/badge/Java-%23facc15?style=for-the-badge&logo=coffeescript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=mysql)
+**Software Engineer | Java Backend Developer | Machine Learning Researcher**
 
-### **Backend**
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate)
-![REST API](https://img.shields.io/badge/REST%20API-orange?style=for-the-badge)
-
-### **Machine Learning**
-![scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
-
-### **Cloud & DevOps**
-![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-black?style=for-the-badge&logo=githubactions)
+[![GitHub](https://img.shields.io/badge/GitHub-CodeRishiX-black?style=flat-square&logo=github)](https://github.com/CodeRishiX)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-debangshubhattacharjee-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/debangshubhattacharjee/)
+[![Email](https://img.shields.io/badge/Email-debangshubhattacharya4%40gmail.com-D14836?style=flat-square&logo=gmail)](mailto:debangshubhattacharya4@gmail.com)
 
 </div>
 
 ---
 
-## 🚀 **Highlighted Projects**
+## About Me
 
-### 🛒 **SpringCart — Full-Stack E-Commerce Platform**  
-🔗 https://github.com/CodeRishiX/Spring_Ecom  
-🔴 **Java + Spring Boot + Spring Security + OAuth2 + JPA + MySQL**  
-- Complete REST backend  
-- User auth, product system, cart & checkout  
-- Swagger API docs  
-- Live deployment on Render  
+I'm an entry-level **Software Engineer** with a passion for building scalable backend systems and exploring machine learning applications in healthcare. Recently graduated with a **B.Tech in Computer Science** from Maulana Abul Kalam Azad University of Technology (MAKAUT), I combine hands-on experience in **Java/Spring Boot** development with research contributions in **AI and cardiovascular disease prediction**.
 
----
-
-### 🏦 **Nex-Bank — E-Banking + Fraud Detection (ML + Java)**  
-🔗 https://github.com/CodeRishiX/BankingSystemBackend  
-- OTP-secured banking backend  
-- ML-based fraud prediction (**96% accuracy**)  
-- Deployed with Streamlit  
-- Monitoring with UptimeRobot
-- Live deployment on Render  
+- 🎓 B.Tech Computer Science Engineering (CGPA: 7.66)
+- 🔍 Published researcher in cardiology and AI (Brain & Heart Journal)
+- 💼 Full-stack backend engineer with REST API, OAuth2, and microservices experience
+- 🔧 Active open-source contributor to JabRef (7000+ ⭐)
+- 🎯 Certified Oracle Cloud Developer Professional & Google Cloud practitioner
 
 ---
 
-### ❤️ **CardioPredict — AI Health Predictor**  
-🔗 https://github.com/CodeRishiX/Cardiovascularprediction  
-- ⭐ *Research paper approved*  
+## 🛠️ Technical Stack
 
+### Languages & Frameworks
+- **Backend:** Java, Spring Boot, Spring Security, Hibernate/JPA
+- **APIs:** REST, OAuth2, Swagger/OpenAPI
+- **Databases:** MySQL, JDBC
+- **Testing:** JUnit, Integration Testing
+
+### Data Science & ML
+- **Libraries:** Python, Scikit-learn, Pandas, SHAP
+- **Deployment:** Streamlit, GCP, Render
+- **Specialization:** Predictive modeling, feature engineering, model interpretability
+
+### Tools & DevOps
+- **Version Control:** Git, GitHub
+- **Cloud:** Google Cloud Platform, Cloud Run
+- **Containerization:** Docker, Terraform
+- **Monitoring:** Uptime Robot, Postman
+- **IDEs:** IntelliJ IDEA
 
 ---
 
-## 🌐 Connect With Me
+## 📚 Academic & Research
 
-<p align="left">
-  <a href="https://github.com/CodeRishiX"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
-  <a href="https://www.linkedin.com/in/debangshubhattacharjee/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:debangshubhattacharya4@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"></a>
-</p>
+### Published Research
+**ML-Based Cardiovascular Disease Prediction**
+- **Publication:** Brain & Heart Journal | DOI: 10.36922/BH025340047
+- **Role:** Co-first Author
+- **Models:** Random Forest, SVM, Logistic Regression
+- **Performance:** 90.21% accuracy, 94.75% recall, 91.31% F1-score
+- **Dataset:** 1,871 patients (merged dataset)
+- **Impact:** Interpretable AI model for clinical CVD risk assessment
 
 ---
 
-## 📊 GitHub Stats (Dark Mode)
+## 🚀 Key Projects
+
+### 1. **SpringCart** — Full-Stack E-Commerce Platform
+**Repository:** [github.com/CodeRishiX/Spring_Ecom](https://github.com/CodeRishiX/Spring_Ecom)
+
+A production-grade e-commerce backend with secure authentication and payment processing.
+
+**Tech Stack:** Java, Spring Boot, Spring Security, OAuth2, MySQL, Hibernate/JPA, Razorpay, Swagger
+
+**Highlights:**
+- Secure user authentication & session management with OAuth2
+- Complete product catalog, shopping cart, and checkout flow
+- Razorpay payment gateway integration
+- Comprehensive Swagger API documentation
+- JUnit test coverage
+- Live deployment on Render with monitoring
+
+---
+
+### 2. **CardioPredict** — AI-Driven Cardiovascular Risk Assessment
+**Repository:** [github.com/CodeRishiX/Cardiovascularprediction](https://github.com/CodeRishiX/Cardiovascularprediction)
+
+A machine learning application for predicting cardiovascular disease risk with clinical interpretability.
+
+**Tech Stack:** Python, Scikit-learn, SHAP, Streamlit, GCP Cloud Run
+
+**Highlights:**
+- Ensemble ML models with optimized hyperparameters
+- Feature importance analysis using SHAP values
+- Interactive Streamlit interface for risk assessment
+- Cloud-deployed for scalable access
+- Published research outcomes in peer-reviewed journal
+
+---
+
+### 3. **Nex-Bank** — Banking System with Fraud Detection
+**Repository:** [github.com/CodeRishiX/BankingSystemBackend](https://github.com/CodeRishiX/BankingSystemBackend)
+
+A secure e-banking backend with integrated machine learning-based fraud detection.
+
+**Tech Stack:** Java, Spring Boot, Python, Scikit-learn, Streamlit, Render
+
+**Highlights:**
+- OTP-secured banking transactions
+- ML-based fraud detection (96% accuracy)
+- Streamlit dashboard for model visualization
+- Production monitoring with UptimeRobot
+- Full REST API for banking operations
+
+---
+
+## 🔥 Open Source Contributions
+
+### JabRef — SearchableComboBox Enhancement
+**Repository:** [github.com/JabRef/jabref/pull/14165](https://github.com/JabRef/jabref/pull/14165)  
+**Status:** ✅ **Merged**
+
+Improved user accessibility and keyboard navigation in the open-source reference management system.
+
+**Contributions:**
+- Converted fixed-value ComboBoxes to SearchableComboBox across 6 files
+- Implemented comprehensive unit tests
+- Resolved merge conflicts and addressed maintainer reviews
+- Updated CHANGELOG and documentation
+- Passed all CI/CD checks in large-scale Java/JavaFX/Gradle codebase
+
+---
+
+## 📜 Internship Experience
+
+### AI & Machine Learning Intern
+**AICTE AI: Transformative Learning** via Edunet Foundation (Dec 2024 – Apr 2025)
+- Developed SMS Spam Detection System using NLP techniques
+- Completed Microsoft-SAP collaborative projects
+
+### AI & Data Analytics Intern
+**VOIS Tech University Engagement Program** via Edunet Foundation (Sep 2025 – Oct 2025)
+- Conversational Data Analysis with Large Language Models
+- NLP and conversational AI implementation
+
+---
+
+## 🎓 Certifications
+
+- **Oracle Certified Associate Cloud Developer Professional** (OCI 2025)
+- **IBM Skills Build - Getting Started with Artificial Intelligence**
+- **Google Cloud Skills Boost - Hands-on Labs & Skill Badges**
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  
-![Rishi's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeRishiX&show_icons=true&theme=vision-friendly-dark&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeRishiX&layout=compact&theme=vision-friendly-dark&hide_border=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeRishiX&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/CodeRishiX)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeRishiX&layout=compact&theme=dark&hide_border=true)](https://github.com/CodeRishiX)
 
 </div>
 
 ---
+
+## 🎯 Focus Areas
+
+- **Backend Development:** Designing scalable REST APIs with Spring Boot and microservices architecture
+- **Secure Authentication:** OAuth2, JWT, session management, and encryption
+- **Machine Learning:** Predictive modeling, data preprocessing, model evaluation, and interpretability
+- **Cloud Deployment:** GCP Cloud Run, containerization with Docker, infrastructure as code
+- **Software Quality:** Unit testing, CI/CD pipelines, code reviews, and best practices
+
+---
+
+## 📫 Let's Connect
+
+I'm actively seeking opportunities as a **Backend Software Engineer** or **Machine Learning Engineer**. Feel free to reach out for collaborations or discussions!
+
+- **Email:** debangshubhattacharya4@gmail.com
+- **GitHub:** [CodeRishiX](https://github.com/CodeRishiX)
+- **LinkedIn:** [Debangshu Bhattacharjee](https://www.linkedin.com/in/debangshubhattacharjee/)
+- **Phone:** +91 6291441556
+
+---
+
+<div align="center">
+
+**Always learning. Always building.**
+
+</div>
