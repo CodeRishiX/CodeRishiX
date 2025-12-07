@@ -1,6 +1,6 @@
 <!-- DARK THEME PREMIUM README FOR DEBANGSHU BHATTACHARJEE -->
 
-<h1 align="center">👋 Hey, I'm <span style="color:#facc15;">Debangshu Bhattacharjee</span> (Rishi)</h1>
+<h1 align="center">👋 Hey, I'm <span style="color:#facc15;">Debangshu Bhattacharjee</span></h1>
 <h3 align="center">💻 Java Backend Developer | Entry-Level Software Engineer | Open-Source Contributor</h3>
 
 <p align="center">
@@ -14,7 +14,7 @@
 - 🎓 **B.Tech in Computer Science Engineering (2025)** — MAKAUT, Kolkata  
 - 💻 **Entry-level Software Engineer** with a focus on **Java, Spring Boot, REST APIs & MySQL** :contentReference[oaicite:1]{index=1}  
 - 🧠 Hands-on experience with **Machine Learning, AI, and cloud-based deployments**  
-- 🫀 **Co-first author** of an ML-based **Cardiovascular Disease Prediction** research paper published in the *Brain & Heart* journal (DOI: `10.36922/BH025340047`) :contentReference[oaicite:2]{index=2}  
+- 🫀 **Co-first author** of an ML-based **Cardiovascular Disease Prediction** research paper published in the *Brain & Heart* journal (DOI: `10.36922/BH025340047`) 
 - 🔧 Comfortable working with **Spring Security (OAuth2), Hibernate/JPA, JUnit, Swagger/OpenAPI, Render, Streamlit, GCP**  
 - 🌱 I enjoy building **end-to-end systems** — from backend APIs to deployable, usable applications  
 - ⭐ Career goal: Grow into a **reliable backend engineer** who ships **clean, maintainable, and well-tested** software  
@@ -26,9 +26,7 @@
 ### 🔥 JabRef — SearchableComboBox (Open-Source Contribution)
 
 - 🧩 Contributed to **JabRef**, a large-scale open-source reference manager built with **Java/JavaFX/Gradle**  
-- 🔁 **Refactored fixed-value `ComboBox` components to `SearchableComboBox`** across **6 files** with **9 commits** :contentReference[oaicite:3]{index=3}  
 - ✅ Added **unit tests**, updated the **CHANGELOG**, resolved **merge conflicts**, and aligned with maintainer review  
-- ⌨️ Improved **keyboard navigation and accessibility** across preferences and web-search panels  
 - ✔️ All changes passed CI and were successfully **merged into the main codebase**
 
 > 📌 PR is linked in my contributions on GitHub (`CodeRishiX` profile).
@@ -79,13 +77,13 @@
 ---
 
 ### 🛒 Spring Cart — Full-Stack E-Commerce Platform  
-📅 **Jan 2025 – May 2025** :contentReference[oaicite:4]{index=4}  
-🔗 **Repository:** https://github.com/CodeRishiX/Spring_Ecom  
+📅 **Jan 2025 – Nov 2025** :contentReference[oaicite:4]{index=4}  
+🔗 **Repository:** [https://github.com/CodeRishiX/Spring_Ecom ](https://github.com/CodeRishiX/Springcart) 
 
 **Tech:** Java, Spring Boot, Spring Security, OAuth2, Hibernate/JPA, MySQL, JUnit, Swagger/OpenAPI, JS (Fetch API)  
 
 - Developed a **secure RESTful backend** for user registration, login, and session management using **Spring Boot** and **Spring Security (OAuth2)**  
-- Integrated **Razorpay** for payment processing within the checkout flow :contentReference[oaicite:5]{index=5}  
+- Integrated **Razorpay** for payment processing within the checkout flow 
 - Used **Hibernate/JPA** for database operations and **MySQL** as the primary data store  
 - Exposed clean, well-documented APIs using **Swagger**  
 - Built a **lightweight frontend** with JavaScript (**Fetch API**) to consume REST endpoints  
@@ -94,37 +92,24 @@
 ---
 
 ### ❤️ Cardio Predict — ML-Based Cardiovascular Disease Predictor  
-📅 **Jan 2024 – June 2025** :contentReference[oaicite:6]{index=6}  
+📅 **Jan 2024 – Nov 2025** :contentReference[oaicite:6]{index=6}  
 🔗 **Repository:** https://github.com/CodeRishiX/Cardiovascularprediction  
 
 **Tech:** Python, Scikit-learn, SHAP, Pandas, Streamlit  
 
 - Built ML models (**Random Forest, SVM, Logistic Regression**) to predict cardiovascular disease risk  
-- Trained on a **merged dataset of 1,871 patients**, focusing on clinical risk factors  
 - Achieved **94.75% recall**, **90.21% accuracy**, and **91.31% F1-score**, optimized for high recall to reduce missed high-risk patients :contentReference[oaicite:7]{index=7}  
-- Used **SHAP** for interpretability so that feature importance and individual predictions are explainable  
 - Deployed as a **cloud-based CVD risk assessment platform** using **Streamlit**, providing an interactive interface for risk prediction  
 - Research outcome of this project was published in the **Brain & Heart** journal as a **co-first author** (DOI: `10.36922/BH025340047`)  
-
----
-
-### 📚 JabRef — SearchableComboBox Contribution  
-📅 **Oct 2025 – Nov 2025** :contentReference[oaicite:8]{index=8}  
-
-- Converted fixed-value **ComboBoxes to SearchableComboBox** across multiple UI components (6 files, 9 commits)  
-- Improved **keyboard navigation and accessibility** across preferences and web-search panels  
-- Added **unit tests**, updated **CHANGELOG**, and handled **merge conflict resolution** as per maintainer feedback  
-- All changes passed **CI checks** and were merged into JabRef’s production codebase  
-
 ---
 
 ## 🧠 Internships & Learning
 
 - 🤖 **AI & Machine Learning Intern – AICTE AI (Edunet Foundation)**  
-  - Worked on AI/ML concepts and built an **SMS Spam Detection System** using NLP :contentReference[oaicite:9]{index=9}  
+  - Worked on AI/ML concepts and built an **SMS Spam Detection System** using NLP 
 
 - 📊 **AI & Data Analytics Intern – VOIS Tech University Engagement Program**  
-  - Gained experience in **conversational data analysis with Large Language Models** and analytics workflows :contentReference[oaicite:10]{index=10}  
+  - Gained experience in **conversational data analysis with Large Language Models** and analytics workflows
 
 ---
 
