@@ -27,7 +27,7 @@
 - ✔️ **Merged into main repository**
 
 📌 **PR Link:**  
-👉 [https://github.com/JabRef/jabref/pull/14165](https://github.com/JabRef/jabref/pull/14165)
+👉 https://github.com/JabRef/jabref/pull/14165
 
 ---
 
@@ -61,7 +61,7 @@
 ## 🚀 **Highlighted Projects**
 
 ### 🛒 **SpringCart — Full-Stack E-Commerce Platform**  
-🔗 [https://github.com/CodeRishiX/Spring_Ecom](https://github.com/CodeRishiX/Spring_Ecom)  
+🔗 https://github.com/CodeRishiX/Spring_Ecom  
 🔴 **Java + Spring Boot + Spring Security + OAuth2 + JPA + MySQL**  
 - Complete REST backend  
 - User auth, product system, cart & checkout  
@@ -71,7 +71,7 @@
 ---
 
 ### 🏦 **Nex-Bank — E-Banking + Fraud Detection (ML + Java)**  
-🔗 [https://github.com/CodeRishiX/BankingSystemBackend](https://github.com/CodeRishiX/BankingSystemBackend)  
+🔗 https://github.com/CodeRishiX/BankingSystemBackend  
 - OTP-secured banking backend  
 - ML-based fraud prediction (**96% accuracy**)  
 - Deployed with Streamlit  
@@ -81,7 +81,7 @@
 ---
 
 ### ❤️ **CardioPredict — AI Health Predictor**  
-🔗 [https://github.com/CodeRishiX/Cardiovascularprediction](https://github.com/CodeRishiX/Cardiovascularprediction)  
+🔗 https://github.com/CodeRishiX/Cardiovascularprediction  
 - ⭐ *Research paper approved*  
 
 
@@ -108,6 +108,3 @@
 </div>
 
 ---
-
-hey this is my current readme.md okay for my github account but here smething is not updated like my apaer is publshed rewrite that portion as first co author ,, and then check anything that should be updated 
-and rewrite the whole readme in proffesional manner okay like a real developer no cringe
