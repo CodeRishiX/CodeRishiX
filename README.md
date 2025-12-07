@@ -78,7 +78,7 @@
 
 ### 🛒 Spring Cart — Full-Stack E-Commerce Platform  
 📅 **Jan 2025 – Nov 2025** :contentReference[oaicite:4]{index=4}  
-🔗 **Repository:** [https://github.com/CodeRishiX/Spring_Ecom ](https://github.com/CodeRishiX/Springcart) 
+🔗 **Repository:** [Springcart ](https://github.com/CodeRishiX/Springcart) 
 
 **Tech:** Java, Spring Boot, Spring Security, OAuth2, Hibernate/JPA, MySQL, JUnit, Swagger/OpenAPI, JS (Fetch API)  
 
@@ -92,7 +92,7 @@
 ---
 
 ### ❤️ Cardio Predict — ML-Based Cardiovascular Disease Predictor  
-📅 **Jan 2024 – Nov 2025** :contentReference[oaicite:6]{index=6}  
+📅 **Jan 2024 – Nov 2025** 
 🔗 **Repository:** https://github.com/CodeRishiX/Cardiovascularprediction  
 
 **Tech:** Python, Scikit-learn, SHAP, Pandas, Streamlit  
