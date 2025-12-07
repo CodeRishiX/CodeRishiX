@@ -98,7 +98,7 @@
 **Tech:** Python, Scikit-learn, SHAP, Pandas, Streamlit  
 
 - Built ML models (**Random Forest, SVM, Logistic Regression**) to predict cardiovascular disease risk  
-- Achieved **94.75% recall**, **90.21% accuracy**, and **91.31% F1-score**, optimized for high recall to reduce missed high-risk patients :contentReference[oaicite:7]{index=7}  
+- Achieved **94.75% recall**, **90.21% accuracy**, and **91.31% F1-score**, optimized for high recall to reduce missed high-risk patients 
 - Deployed as a **cloud-based CVD risk assessment platform** using **Streamlit**, providing an interactive interface for risk prediction  
 - Research outcome of this project was published in the **Brain & Heart** journal as a **co-first author** (DOI: `10.36922/BH025340047`)  
 ---
@@ -117,7 +117,7 @@
 
 - ☁️ **Oracle – Certified Cloud Developer Professional (OCI 2025)**  
 - 🤖 **IBM SkillsBuild – Getting Started with Artificial Intelligence**  
-- 🌩️ **Google Cloud Skills Boost – Hands-on Labs & Skill Badges** :contentReference[oaicite:11]{index=11}  
+- 🌩️ **Google Cloud Skills Boost – Hands-on Labs & Skill Badges** 
 
 ---
 
